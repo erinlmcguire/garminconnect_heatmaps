@@ -5,3 +5,16 @@ I made this tool because I wanted to see how much of Atlanta I had run and have 
 
 ----------
 Check out the analysis in the Jupyter notebook here. 
+
+#Configuration
+-----------------
+-Create a folder called config, and put a file called "private.py" inside.
+  -Add a value called "API_KEY" that contains your Google Maps API Key.
+  -Add a two values called "garmin_username" and "garmin_password" that contain your Garmin Connect username and password.
+ 
+#Deployment
+--------------
+-Install Python 3 using Anaconda or another method.
+-Install Jupyter Notebook.
+-Install the Python requirements with pip install -r requirements.txt.
+-Run the program in Jupyter notebook.  Results will be shown inline and you can download the heatmap.
