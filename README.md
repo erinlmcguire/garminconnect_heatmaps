@@ -7,9 +7,8 @@ I made this tool because I wanted to see how much of Atlanta I had run and have 
 Check out the analysis in the Jupyter notebook here. 
 
 # Configuration
------------------
--Create a folder called config, and put a file called "private.py" inside.    
-  -Add a value called "API_KEY" that contains your Google Maps API Key.       
+-------------------
+-Add your Google Maps API key to the code
  
 # Deployment
 --------------
