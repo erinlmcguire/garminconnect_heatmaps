@@ -8,7 +8,9 @@ Check out the analysis in the Jupyter notebook here.
 
 # Configuration
 -------------------
--Add your Google Maps API key to the code
+-Export all of your activities as gpx manually or using one of the scripts on Github.  Strava also has a tool to download all your activity data.
+-Add your Google Maps API key to the code     
+-Update the directory that contains the gpx activity files
  
 # Deployment
 --------------
