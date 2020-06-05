@@ -9,8 +9,7 @@ Check out the analysis in the Jupyter notebook here.
 #Configuration
 -----------------
 -Create a folder called config, and put a file called "private.py" inside.    
-  -Add a value called "API_KEY" that contains your Google Maps API Key.    
-  -Add a two values called "garmin_username" and "garmin_password" that contain your Garmin Connect username and password.    
+  -Add a value called "API_KEY" that contains your Google Maps API Key.       
  
 #Deployment
 --------------
