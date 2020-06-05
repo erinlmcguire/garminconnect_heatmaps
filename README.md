@@ -20,4 +20,6 @@ Check out the analysis in the Jupyter notebook here.
 
 # Example Files
 -------------------------------
-An example of the output heatmap is included called "atlanta_heatmap1".
+Two example of the output heatmap are included: 
+  -"atlanta_heatmap1"
+  -"tucson_heatmap"
