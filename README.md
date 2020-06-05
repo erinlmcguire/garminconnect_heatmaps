@@ -1,5 +1,5 @@
 # garminconnect_heatmaps
-This repo contains the code that will parse one's activity data from Garmin Connect or Strava and then make a heatmap of the activities.  This will let you visualize your activity data to see how much of a location you have run, biked, or swam.  The color palette of the heatmap is customizeable.
+This repo contains the code that will take one's gpx activity data from Garmin Connect or Strava and then make a heatmap of the activities.  This will let you visualize your activity data to see how much of a location you have run, biked, or swam.  The color palette of the heatmap is customizeable.
 
 I made this tool because I wanted to see how much of Atlanta I had run and have an easy way to update my progress.  All you need to make these heatmaps is a Garmin Connect (or Strava) account and a Google Maps API key.  You can download all your Garmin Connect data using kjkjava's repo here: https://github.com/kjkjava/garmin-connect-export
 
