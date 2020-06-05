@@ -19,6 +19,6 @@ Check out the analysis in the Jupyter notebook here.
 
 # Example Files
 -------------------------------
-Two example of the output heatmap are included: 
-  -"atlanta_heatmap1"
-  -"tucson_heatmap"
+Two example of the output heatmap are included:      
+  -"atlanta_heatmap1"      
+  -"tucson_heatmap"    
